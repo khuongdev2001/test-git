@@ -2,3 +2,5 @@
    - name: "gallery"
 - key:
    - value: "gallery"
+- key2:
+   - value: "gallery2"
