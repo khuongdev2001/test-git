@@ -2,3 +2,5 @@
    - name: "service"
 - key:
    - value: "service"
+- key2:
+   - value: "service 2"
