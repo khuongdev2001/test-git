@@ -4,3 +4,5 @@
    - value: "service"
 - key2:
    - value: "service 2"
+- key3:
+   - value: "service 2"
